@@ -1,0 +1,100 @@
+
+.contentprd{
+    width: 1200px;
+   margin: 200px 0px 0px 200px;
+}
+.content-img-title{
+    display: flex;
+    
+}
+
+.home a{
+    color: black;
+    text-decoration: none;
+}
+.home a:hover{
+    color: red;
+}
+
+.mota {
+    margin-left: 50px;
+}
+.mota h2{
+    font-size: 28px;
+}
+.mota del{
+    color: crimson;
+}
+
+.mota span{
+    color: rgb(238, 9, 54);
+    font-weight: bold;
+    font-size: 20px;
+}
+.mota ul li{
+    margin-top: 10px;
+    color: rgb(48, 47, 47);
+}
+.bu button{
+    margin-top: 20px;
+    width: 300px;
+    height: 40px;
+    font-weight: bold;
+    background-color: rgb(56, 57, 58);
+    color: white;
+    font-size: 16px;
+}
+.bu button:hover{
+    background-color: rgb(20, 20, 20);
+}
+.content-mid{
+    margin-top: 50px;
+    display: inline-block;
+}
+.title{
+    border-radius: 10px;
+    background-color: #33cc99;   
+    color: white;
+    text-align: center;
+   
+   font-weight: 500;
+}
+.prdlq-img{
+   
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.prlq{
+  
+   margin-top: 20px;
+}
+.prdlq img{
+    width: 200px;
+    
+}
+.prlq .name{
+    width: 150px;
+    margin-left: 10px  ;
+}
+.prdlq .name del{
+    color: brown;
+}
+.prdlq .name a {
+    text-decoration: none;
+    color: rgb(13, 24, 187);
+    font-weight: bold;
+}
+.prdlq .name span{
+    color: red;
+    font-weight: bold;
+}
+
+.titlect{
+    background-color: #33cc99;   
+    display: inline-block;
+    padding: 10px 10px; 
+    border-radius: 10px;
+    font-weight: 500;
+    color: white;
+    margin: 80px 0px 20px 0px;
+}

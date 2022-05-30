@@ -1,0 +1,36 @@
+.content-introduce{
+    max-width: 60%;
+    margin: auto;
+  }
+  .introduce{
+   
+    display: flex;
+    margin-top: 200px;
+  }
+  .introduce-blog-img img{
+    margin-top: 10px;
+  }
+  .introduce-blog{
+    margin-left: 20px;
+  }
+  .introduce-blog h2{
+    color: rgb(19, 60, 211);
+  }
+  .introduce-blog p{
+  font-size: 18px;
+  color: rgb(128, 127, 127);
+  }
+  .introduce-blog span{
+    color: blue;
+    font-weight: bold;
+  }
+  .trademark{
+    margin: 40px 0px 80px 0px;
+  }
+  .trademark-title{
+    color: blue;
+    border-bottom: 1px solid rgb(185, 182, 182);
+  }
+  .trademark-describe{
+    font-size: 18px;
+  }

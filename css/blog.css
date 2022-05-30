@@ -1,0 +1,35 @@
+/* blog */
+.blogs{
+    max-width: 50%;
+   margin: auto;
+   box-shadow: rgb(233, 229, 229) 10px 10px 10px 10px ;
+  }
+  .title-baiviet{
+     text-align: center;
+     margin-top: 200px;
+  }
+  .title-blog{
+    margin-top: 30px;
+  }
+  .blog{
+    display: flex;
+    margin: 10px 0px 120px 0px;
+    
+  }
+  .img-blog{
+     margin-top: 10px;
+  }
+  .mota-blog{
+     margin-left: 10px;
+     font-size: 18px;
+     color: rgb(128, 127, 127);
+  }
+  .mota-blog button{
+     height: 30px;
+     border: 2px solid rgba(255, 255, 7, 0.877);
+     background-color: rgb(245, 248, 249);
+     color: rgba(14, 14, 1, 0.874);
+     font-weight: bold;
+     width: 100px;
+     margin-top: 30px;
+  }
